@@ -24,7 +24,7 @@ U pitanju bi bila mala 3D igra (na dva 2D pozadini). Igra bi bila random dungeon
     - Dodavanje poena po dva kriterijuma
         - Količina ubijenih protivnika
         - Vreme potrebno za to
- - Kraj
+  - Kraj
     - Kada lik više nema preostalih života
     - Ponuditi opciju restart i quit
     - Poene čuvati na rang listi (10 najboljih)
